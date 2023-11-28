@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @viczengin
+- 👀 I’m interested in learning and improving my programming skills...
+- 🌱 I’m currently learning computer science ...
+- 📫 How to reach me vic. zengin@gmail.com or @victartari (instagram)...
+
+<!---
+viczengin/viczengin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
